@@ -9,3 +9,4 @@ Click New SSH key
 Give it a title (e.g., "Palak MacBook Air")
 Paste the key
 Save
+ # modify check
