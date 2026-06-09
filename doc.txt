@@ -10,3 +10,18 @@ Give it a title (e.g., "Palak MacBook Air")
 Paste the key
 Save
  # modify check
+
+
+ Git commands for new repo:
+ Step1: Creae a repository on github account
+ On local system: 
+ Step2: come on the correct directory
+ Step3: git clone repository_address 
+  eg: git clone git@github.com:palakverma0110-pixel/network-security-scanner.git
+Step4: changes(Add or modification) on local system in the cloned repository
+Step5: Add changes on git
+  eg: git add file_name
+ste6: git commit -m "message"
+Step7: git push origin main 
+
+
